@@ -5,7 +5,7 @@ Projeto com foco no backend:
 2. Integração com o banco de dados MongoDB  
 3. Conexão entre o frontend e o backend  
 4. Implementação das lógicas do player  
-5. Gerenciamento de versionamento com GitHub e deploy da aplicação
+5. Gerenciamento de versionamento com GitHub e deploy da aplicação no RENDER
 
    <p align="center">
   <img alt="Agregador de Links" src="https://i.ibb.co/4ZrQ9BVT/spotify.jpg" width="50%">
@@ -22,6 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Cors
 - JavaScript
 - Git e Github
+
+ DEPLOY:
 
  https://backend-spotify-296c.onrender.com
  
