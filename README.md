@@ -8,7 +8,7 @@ Projeto com foco no backend:
 5. Gerenciamento de versionamento com GitHub e deploy da aplicação
 
    <p align="center">
-  <img alt="Agregador de Links" src="https://i.ibb.co/4ZrQ9BVT/spotify.jpg">
+  <img alt="Agregador de Links" src="https://i.ibb.co/4ZrQ9BVT/spotify.jpg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
